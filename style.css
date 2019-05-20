@@ -685,8 +685,8 @@ ul {
 }
 
 .search input[type="search"] {
-  border: 1px solid #ddd;
-  border-radius: 30px;
+  border: 1px solid #1d1d1d;
+  border-radius: 5px;
   box-sizing: border-box;
   color: #999;
   height: 40px;
